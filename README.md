@@ -1,5 +1,8 @@
 # COURSE GIT and GITHUB
 
+![Git e GitHub](https://user-images.githubusercontent.com/105549520/170841377-fb97aa8a-2463-424d-90e7-fe323d8e4e86.png)
+
+
 * All commands made of the extension course.
 
 > Note: The ls and cat commands are Unix/Linux operating system commands. In the case of windows we use dir (instead of ls) and type (instead of cat).
