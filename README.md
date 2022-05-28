@@ -1,5 +1,15 @@
 # COURSE GIT/GITHUB
 
-All commands and projects made in the extension course.
+* All commands made of the extension course.
 
-GitHub
+> To create a local repository. 
+
+`git init`
+
+> To choose a directory
+
+`cd "Directory's name"`
+
+
+
+
