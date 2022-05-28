@@ -20,7 +20,7 @@
 
 >To add file in the .git's directory or any directory created and to keep track its versioning.
 
-`git add "File's name"`
+`git add "Filename"`
 
 >To add all files in the directory selected.
 
@@ -44,13 +44,15 @@
 
 >To delete a file.
 
-`git rm "File's name"`
+`git rm "Filename"`
 
 >To delete a file of the repository only.
 
-`git rm --cached "File's name"`
+`git rm --cached "Filename"`
 
->
+>To create the repository's trash.
+
+`mkdir .gitignore`
 
 
 
