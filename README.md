@@ -12,6 +12,10 @@
 
 `git config --global user.name "The name here"`
 
+>To get help
+
+`Google :D, git help git and git clone --help`
+
 > To create a local repository. 
 
 `git init`
@@ -20,9 +24,17 @@
 
 `cd "Directory's name"`
 
+>To create a folder
+
+`mkdir`
+
 >To add file in the .git's directory or any directory created and to keep track its versioning.
 
 `git add "Filename"`
+
+>To clone a remote repository
+
+`git clone "link"`
 
 >To add all files in the directory selected.
 
@@ -55,6 +67,7 @@
 >To create the repository's trash.
 
 `To create a file.txt and add in */"What desire ignore"`
+
 
 
 
