@@ -30,7 +30,7 @@
 
 `git commit -m "The comment"`
 
->To verify log's change
+>To verify log's change and see the repository's file
 
 `git show`
 
@@ -38,6 +38,13 @@
 
 `git status`
 
+>To show the file's changes
+
+`git diff`
+
+>To remove one repository's file.
+
+``
 
 
 
