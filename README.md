@@ -52,7 +52,9 @@
 
 >To create the repository's trash.
 
-`mkdir .gitignore`
+`To create a file.txt and add in */"What desire ignore"`
+
+
 
 
 
