@@ -1,4 +1,4 @@
-# COURSE GIT/GITHUB
+# COURSE GIT and GITHUB
 
 * All commands made of the extension course.
 
