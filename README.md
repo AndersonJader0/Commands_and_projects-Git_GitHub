@@ -2,6 +2,8 @@
 
 * All commands made of the extension course.
 
+> Note: The ls and cat commands are Unix/Linux operating system commands. In the case of windows we use dir (instead of ls) and type (instead of cat).
+
 >To identify user's email for the first time.
 
 `git config --global user.email "The e-mail here"`
