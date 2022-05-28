@@ -42,9 +42,16 @@
 
 `git diff`
 
->To remove one repository's file.
+>To delete a file.
 
-``
+`git rm "File's name"`
+
+>To delete a file of the repository only.
+
+`git rm --cached "File's name"`
+
+>
+
 
 
 
