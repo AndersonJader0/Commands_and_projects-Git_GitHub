@@ -1,6 +1,7 @@
 # COURSE GIT and GITHUB
 
-![Git e GitHub](https://user-images.githubusercontent.com/105549520/170841377-fb97aa8a-2463-424d-90e7-fe323d8e4e86.png)
+![Git and GitHub](https://user-images.githubusercontent.com/105549520/170841417-571b75f2-476a-42ce-945a-6ea601748b72.png)
+
 
 
 * All commands made of the extension course.
