@@ -1,2 +1,3 @@
-# Commands_and_projects-Git_GitHub
+# GIT COURSE
+
 All commands and projects made in the extension course. //Git and GitHub//
