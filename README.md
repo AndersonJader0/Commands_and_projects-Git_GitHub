@@ -27,11 +27,11 @@
 
 > `Step 1: git init`
 > `Step 2: Create a repository on Github`
-#### `Step 3: The folder need some information like index.html commited` 
-#### `-- git add . --for add all the att`
-#### `-- git commit -m "what you want tell"`
-#### `-- git status for verify`
-#### `Step 4: Add the link of the repository in the folder`
+> `Step 3: The folder need some information like index.html commited` 
+> `-- git add . --for add all the att`
+> `-- git commit -m "what you want tell"`
+> `-- git status for verify`
+> `Step 4: Add the link of the repository in the folder`
 
 
 
