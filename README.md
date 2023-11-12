@@ -9,7 +9,7 @@
 
 > Note: The ls and cat commands are Unix/Linux operating system commands. In the case of windows we use dir (instead of ls) and type (instead of cat).
 
->To identify user's email for the first time.
+> To identify user's email for the first time.
 
 `git config --global user.email "The e-mail here"`
 
@@ -21,22 +21,22 @@
 
 
 
->To create repository and pull att
+> To create repository and pull att
 
 `on the prompt: cd 'name of the repository'`
 
 `Step 1: git init`
 `Step 2: Create a repository on Github`
-`Step 3: The folder need some information like index.html commited 
- -- git add . --for add all the att
- -- git commit -m "what you want tell"
- -- git status for verify`
+`Step 3: The folder need some information like index.html commited` 
+`-- git add . --for add all the att`
+`-- git commit -m "what you want tell"`
+`-- git status for verify`
 `Step 4: Add the link of the repository in the folder`
 
 
 
 
->To get help
+> To get help
 
 `Google :D, git help git and git clone --help`
 
@@ -60,61 +60,61 @@
 
 
 
->To add file in the .git's directory or any directory created and to keep track its versioning.
+> To add file in the .git's directory or any directory created and to keep track its versioning.
 
 `git add "Filename"`
 
 
 
->To clone a remote repository
+> To clone a remote repository
 
 `git clone "link"`
 
 
 
->To add all files in the directory selected.
+> To add all files in the directory selected.
 
 `git add .` or `git add *`
 
 
 
->To be commited all the file untracked
+> To be commited all the file untracked
 
 `git commit -m "The comment"`
 
 
 
->To verify log's change and see the repository's file
+> To verify log's change and see the repository's file
 
 `git show`
 
 
 
->To show the status of the repository at that moment.
+> To show the status of the repository at that moment.
 
 `git status`
 
 
 
->To show the file's changes
+> To show the file's changes
 
 `git diff`
 
 
 
->To delete a file.
+> To delete a file.
 
 `git rm "Filename"`
 
 
 
->To delete a file of the repository only.
+> To delete a file of the repository only.
 
 `git rm --cached "Filename"`
 
 
 
->To create the repository's trash.
+> To create the repository's trash.
 
 `To create a file.txt and add in */"What desire ignore"`
 
